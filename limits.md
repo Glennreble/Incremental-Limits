@@ -12,6 +12,12 @@
 | Incremental Unlimited 2       | 10^^10^308 - F1e308          | Tetrational:Exponential   | Number Engineer | https://bit.ly/incremental-Unlimited-2                             |
 | Plague Tree                   | 10^^10^41 - F1e41            | Tetrational:Exponential   | Vorona          | https://c0v1d-9119361.github.io/The-Plague-Tree/                   |
 | The Unscaled Incremental      | 10^^10^15 - F1e15            | Tetrational:polynomial    | SuperSpruce     | https://superspruce.github.io/TheUnscaledIncremental/              |
+| Incremental Mass Rewritten
+  | 10^^10^12 - F1e12
+   | Tetrational:polynomial
+ | MrRedShark77    |
+https://mrredshark77.github.io/incremental-mass-rewritten/
+       |
 | Tetrational Madness           | 10^^200000 - F200,000        | >=Tetrational             | Patcail         | https://scratch.mit.edu/projects/341525196/                        |
 | True Tetrational              | 10^^10000 - F10,000          | Tetrational:Polynomial    | Patcail         | https://scratch.mit.edu/projects/310919497/                        |
 | True Infinity Alpha           | 10^^6 - F6                   | Exponential^5             | Reinhardt       | https://reinhardt-c.github.io/TrueInfinity/alpha/                  |
@@ -21,7 +27,6 @@
 | Incremental Unlimited         | 10^10^10^30 - ee1e30         | Exponential^3             | Number Engineer | https://bit.ly/Incremental-Unlimited                               |
 | Exponential Idle              | 10^10^50000 - e1e50,000      | Exponential^2             | Conic Games     | https://conicgames.github.io/exponentialidle/index.html            |
 | Reactor Idle Knockoff 100     | 10^10^10000 - e1e10,000      | Exponential^2             | Redfire         | https://redfire75369.github.io/Reactor-Idle-Knockoff-100/          |
-| Incremental Mass Rewritten    | 10^10^3400 - ee3400          | Exponential^2             | MrRedShark77    | https://mrredshark77.github.io/incremental-mass-rewritten/         |
 | Incremental Adventures        | 10^10^450 - e1e450           | Exponential^2             | Gniller         | https://www.kongregate.com/games/Gniller/incremental-adventures    |
 | Infinite Layers               | 10^10^308 - e1e308           | Exponential^2             | dan-simon       | https://dan-simon.github.io/misc/b2/                               |
 | Multiplying Incrementals      | 10^10^308 - e1e308           | Exponential^2             | JohnathanTBG    | https://scratch.mit.edu/projects/325680353/                        |
